@@ -14,7 +14,7 @@
 - 🔹 **Exploring** Cloud technologies and modern development tools
 
 ### 🧠 Current Focus Areas
-> **Languages & Domains:** Data Structures & Algorithms ⚡ Competitive Programming 🤖 AI & Machine Learning 🌐 Full-Stack Development ☁️ Cloud & Developer Communities
+Data Structures & Algorithms ⚡ Competitive Programming 🤖 AI & Machine Learning 🌐 Full-Stack Development ☁️ Cloud & Developer Communities
 
 ### 📫 Connect with me
 <p align="left">
