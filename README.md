@@ -12,9 +12,12 @@
 - 🔹 **Building** practical AI-powered and full-stack projects
 - 🔹 **Participating** in hackathons and technical events
 - 🔹 **Exploring** Cloud technologies and modern development tools
-
 ### 🧠 Current Focus Areas
-Data Structures & Algorithms ⚡ Competitive Programming 🤖 AI & Machine Learning 🌐 Full-Stack Development ☁️ Cloud & Developer Communities
+- ⚡ **Data Structures & Algorithms**
+- 🏆 **Competitive Programming**
+- 🤖 **AI & Machine Learning**
+- 🌐 **Full-Stack Development**
+- ☁️ **Cloud & Developer Communities**
 ### 📫 Connect with me
 <p align="left">
   <!-- Profile links -->
