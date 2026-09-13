@@ -15,13 +15,18 @@
 
 ### 🧠 Current Focus Areas
 Data Structures & Algorithms ⚡ Competitive Programming 🤖 AI & Machine Learning 🌐 Full-Stack Development ☁️ Cloud & Developer Communities
-
 ### 📫 Connect with me
 <p align="left">
-  <!-- Replace the # with your actual profile links -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kingshuk-adhikari-6a2bb6257/" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <!-- Profile links -->
+  <a href="https://www.linkedin.com/in/kingshuk-adhikari-6a2bb6257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_X_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 
