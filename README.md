@@ -1,102 +1,45 @@
-# 👋 Hi, I'm Kingshuk Adhikari
+<div align="center">
 
-### 💻 CSE Student | Developer | Tech Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kingshuk%20Adhikari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
 
-I’m a Computer Science student who enjoys **building projects, solving problems, and exploring new technologies**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Competitive+Programming+%F0%9F%A7%A0;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Cloud+%26+Open+Source+Enthusiast+%E2%98%81%EF%B8%8F;Building+Ideas+Into+Reality+%F0%9F%9A%80"/>
 
-Currently focused on:
+<br>
 
-* 🧠 Data Structures & Algorithms
-* ⚡ Competitive Programming
-* 🤖 AI & Machine Learning
-* 🌐 Full-Stack Development
-* ☁️ Cloud & Developer Communities
+<img src="https://komarev.com/ghpvc/?username=saxxke&style=for-the-badge&color=667eea&label=PROFILE+VIEWS">
 
----
+<a href="https://github.com/saxxke?tab=followers">
+<img src="https://img.shields.io/github/followers/saxxke?style=for-the-badge&logo=github&label=Followers">
+</a>
 
-## 🚀 What I'm Working On
+<a href="https://github.com/saxxke?tab=repositories">
+<img src="https://img.shields.io/github/stars/saxxke?style=for-the-badge&logo=github&label=Stars">
+</a>
 
-🔹 Improving my **DSA & Competitive Programming** skills
-🔹 Building practical **AI-powered and full-stack projects**
-🔹 Participating in **hackathons and technical events**
-🔹 Exploring **Cloud technologies and modern development tools**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+```javascript
+const kingshuk = {
+    name: "Kingshuk Adhikari",
+    role: "Computer Science Student",
 
-`C` `C++` `Java` `Python` `JavaScript` `TypeScript`
+    interests: [
+        "Software Development",
+        "Competitive Programming",
+        "Artificial Intelligence",
+        "Cloud Computing"
+    ],
 
-### Web & Backend
+    currentlyLearning: [
+        "Advanced DSA",
+        "AI / ML",
+        "Backend Development",
+        "System Design"
+    ],
 
-`HTML` `CSS` `React` `Node.js` `Express` `FastAPI`
-
-### AI / Data
-
-`Python` `Machine Learning` `NLP` `spaCy`
-
-### Database & Cloud
-
-`MongoDB` `MySQL` `Neo4j` `Google Cloud`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Figma`
-
----
-
-## 🧩 Featured Projects
-
-### 🩺 Arogya Saathi
-
-Multilingual AI-powered healthcare platform designed to make healthcare information more accessible through conversational AI.
-
-**Tech:** `React` `TypeScript` `AI` `NLP`
-
-### 🌦️ Country Weather App
-
-A web application that provides weather information based on selected countries and locations.
-
-**Tech:** `JavaScript` `HTML` `CSS` `Weather API`
-
-### 🧠 Competitive Programming
-
-A collection of algorithms, data structures, problem-solving approaches, and competitive programming resources.
-
-**Focus:** `DSA` `C++` `Algorithms`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saxxke&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxxke&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🎯 Current Goal
-
-> **Become a stronger problem solver, build meaningful products, and keep learning every day.**
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/saxxke">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>💡 Building. Learning. Improving.</i>
-</p>
+    mindset: "Learn → Build → Improve → Repeat 🚀"
+};
