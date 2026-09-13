@@ -1,8 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kingshuk Adhikari</h1>
-<h3 align="center">💻 CSE Student | Developer | Tech Enthusiast I’m a Computer Science student who enjoys building projects, solving problems, and exploring new technologies. Currently focused on: 🧠 Data Structures & Algorithms ⚡ Competitive Programming 🤖 AI & Machine Learning 🌐 Full-Stack Development ☁️ Cloud & Developer Communities 🚀 What I’m Working On 🔹 Improving my DSA & Competitive Programming skills 🔹 Building practical AI-powered and full-stack projects 🔹 Participating in hackathons and technical events 🔹 Exploring Cloud technologies and modern development tools</h3>
+<h3 align="center">💻 CSE Student | Developer | Tech Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <i>I’m a Computer Science student who enjoys building projects, solving problems, and exploring new technologies.</i>
+</p>
+
+<hr>
+
+### 🚀 What I’m Working On
+- 🔹 **Sharpening my skills** in Data Structures & Algorithms and Competitive Programming
+- 🔹 **Building** practical AI-powered and full-stack projects
+- 🔹 **Participating** in hackathons and technical events
+- 🔹 **Exploring** Cloud technologies and modern development tools
+
+### 🧠 Current Focus Areas
+> **Languages & Domains:** Data Structures & Algorithms ⚡ Competitive Programming 🤖 AI & Machine Learning 🌐 Full-Stack Development ☁️ Cloud & Developer Communities
+
+### 📫 Connect with me
 <p align="left">
+  <!-- Replace the # with your actual profile links -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 - 📫 How to reach me **kingshukadhikari2021@gmail.com**
 
