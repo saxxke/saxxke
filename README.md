@@ -20,26 +20,3 @@
 
 ---
 
-# 👨‍💻 About Me
-
-```javascript
-const kingshuk = {
-    name: "Kingshuk Adhikari",
-    role: "Computer Science Student",
-
-    interests: [
-        "Software Development",
-        "Competitive Programming",
-        "Artificial Intelligence",
-        "Cloud Computing"
-    ],
-
-    currentlyLearning: [
-        "Advanced DSA",
-        "AI / ML",
-        "Backend Development",
-        "System Design"
-    ],
-
-    mindset: "Learn → Build → Improve → Repeat 🚀"
-};
