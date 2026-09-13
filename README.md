@@ -1,22 +1,47 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Kingshuk Adhikari 👋</h1>
+<h3 align="center">Software Developer | Tech Enthusiast </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kingshuk%20Adhikari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kingshuk-adhikari-6a2bb6257/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/saxxke" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Competitive+Programming+%F0%9F%A7%A0;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Cloud+%26+Open+Source+Enthusiast+%E2%98%81%EF%B8%8F;Building+Ideas+Into+Reality+%F0%9F%9A%80"/>
+<br/>
 
-<br>
+### 👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=saxxke&style=for-the-badge&color=667eea&label=PROFILE+VIEWS">
+- 🔭 I’m currently working on **Web Development & Blockchain Technology**
+- 🌱 I’m currently diving deeper into **Python, C, and SQL**
+- ⚡ In my free time, I enjoy **designing circuit diagrams and participating in hackathons.**
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/kingshuk-adhikari-6a2bb6257/)
 
-<a href="https://github.com/saxxke?tab=followers">
-<img src="https://img.shields.io/github/followers/saxxke?style=for-the-badge&logo=github&label=Followers">
-</a>
+<br/>
 
-<a href="https://github.com/saxxke?tab=repositories">
-<img src="https://img.shields.io/github/stars/saxxke?style=for-the-badge&logo=github&label=Stars">
-</a>
+### 🛠️ Tech Stack & Tools
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
+</p>
 
----
+<br/>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saxxke&show_icons=true&theme=tokyonight&hide_border=true" alt="Kingshuk's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saxxke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxxke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
