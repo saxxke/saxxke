@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/kingshuk-adhikari-6a2bb6257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_X_PROFILE_URL" target="_blank">
+  <a href="https://x.com/kingshuk1704" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" />
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
